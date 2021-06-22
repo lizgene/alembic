@@ -1,15 +1,26 @@
+// Custom Colors
+$mauve: #AD7C82;
+$green: #868662;
+$darkgreen: #44442b;
+$clay: #C87D55;
+$coral: #F6BC8C;
+$dandelion: #E8CA8C;
+$offwhite: #FDF0D9;
+
+
+
 // Background colours
 $backgroundColour: #ffffff !default;
 $codeBackgroundColour: #fafafa !default;
 $featureBackgroundColour: #f9fafa !default;
-$accentColour: #05bf85 !default;
+$accentColour: $green !default;
 
 // Text colours
 $headingColour: #242e2b !default;
 $bodyColour: #384743 !default;
-$linkColour: #05bf85 !default;
-$hoverColour: #008000 !default;
-$focusColour: #fa407a !default;
+$linkColour: $green !default;
+$hoverColour: $darkgreen !default;
+$focusColour: $clay !default;
 $captionColour: #a8adac !default;
 $white: #ffffff !default;
 

@@ -7,9 +7,13 @@
 
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
-      <h3>About this site</h3>
-      <p>{{ site.description }}</p>
-      {% include nav-social.html %}
+      <ul style="list-style-type: none;" class="list">
+        <li class="item"><a href="/feldenkrais/">The Feldenkrais Method</a></li>
+        <li class="item"><a href="/services#bones">Bones for Life</a></li>
+        <li class="item"><a href="/services#dance">Dance for Disabilities</a></li>
+        <li class="item"><a href="/services#quigong">Quigong Classes</a></li>
+        <li class="item"><a href="/childrens-books">Children's Books</a></li>
+      </ul>
     </section>
 
   {% elsif page.layout == "categories" %}
