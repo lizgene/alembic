@@ -9,6 +9,8 @@ aside: true
 
 The [Feldenkrais Method®](/feldenkrais/) is a form of somatic education designed to to retrain the body to move out of pain. By expanding the self-image through precise movement sequences, attention is brought to parts of the self that are not functioning efficiently. You can become more aware of your habitual neuromuscular patterns and rigidities and will be able to expand your options for moving in less painful ways. 
 
+{% include figure.html image="/assets/images/FI_body.jpg" position="center" width="450" %}
+
 The benefits of the Feldenkrais Method® include greater ease and range of motion, improved flexibility and coordination, and more efficient movement. In short, by directed attention, the Feldenkrais Method® assists you to live your life more fully, efficiently and comfortably.
 
 * For Healthy Aging
