@@ -7,7 +7,23 @@ aside: true
 
 <h3 id="feldenkrais">The Feldenkrais Method</h3>
 
-Book a private lesson...
+The [Feldenkrais Method®](/feldenkrais/) is a form of somatic education designed to to retrain the body to move out of pain. By expanding the self-image through precise movement sequences, attention is brought to parts of the self that are not functioning efficiently. You can become more aware of your habitual neuromuscular patterns and rigidities and will be able to expand your options for moving in less painful ways. 
+
+The benefits of the Feldenkrais Method® include greater ease and range of motion, improved flexibility and coordination, and more efficient movement. In short, by directed attention, the Feldenkrais Method® assists you to live your life more fully, efficiently and comfortably.
+
+* For Healthy Aging
+* Pain Relief
+* Movement Difficulties
+* Performers
+* Posture and Balance
+* Repetitive Strain Injury
+* Competitive Athletes
+
+Feldenkrais Method® services I offer include:
+
+* Individual Functional Integration Sessions
+* Awareness Through Movement Classes
+* Consultation and Professional Resources
 
 <p style="text-align: center;">{% include button.html text="Book a Session" link="/contact" %}</p>
 
