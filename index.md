@@ -5,22 +5,27 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
-{% include figure.html image="/assets/images/headshot.jpeg" position="left" width="350" %}
+{% include figure.html image="/assets/images/headshot.jpeg" position="left" width="250" %}
 
-I like to fish. I love to swim. I couldn’t live without a dog. What else would you like to know about me? I like to make people laugh and smile. I hope to make participants out of spectators. What do you call a fairy that never takes a bath? Stinkerbell!
+I have always been a lover of movement. Once I started, I couldn’t stop. I was
+hooked. I became a junkie. The more I moved, the more I wanted to move. What about you?
 
-I have always been a lover of movement. My mom says that at age four I was marching with the bands on television. My elementary school years were filled with dancing down hallways and putting on plays for neighbor kids. I learned to do cartwheels in the aisles of grocery stores. I started formal dance training at the age of 12 and as I was preparing for college dance programs realized I was too short for the life of a ballerina, not to mention my difficulty doing triple turns. 
-My dance journey shifted to the world of modern dance and I have never looked back. 
-During the summer of 1978, having recently moved to Fort Wayne, IN, I befriended several women who shared my love of dance and together we created the Fort Wayne Dance Collective, which still thrives. 
+You can’t love movement if it is difficult or painful. I hope that I can help you
+rediscover the possibilities of movement through individual sessions or classes.
 
-{% include figure.html image="/assets/images/dancing.jpg" position="left" width="350" %}
+{% include figure.html image="/assets/images/dancing.jpg" position="right" %}
 
-I enjoyed a career that brought me in touch with many forms of movement and theatre including contact improvisation, the Bartenieff Movement Fundamentals®, the Feldenkrais Method®, Action Theatre, Music Together®, and studied with notable artists Joe Goode, Remy Charlip, Ruth Zaporah and many more. 
-My 37 years as Artistic Director of the Fort Wayne Dance Collective honed my skills as a teacher, choreographer, performer, director, and administrator. 
+> “To make the impossible possible, the possible easy, and the easy elegant. Life
+without movement is unthinkable.” - Moshe Feldenkrais
 
-I left my administrative position at the Fort Wayne Dance Collective in 2015 which coincided with my graduation from the Seattle Eastside Feldenkrais® Training. Since then, I continue to teach a variety of classes as well as focusing on my profession as a Feldenkrais® Practitioner. I am currently enrolled as a Teacher in Training for Bones for Life® as administrated through Future Life Now.
+Upon leaving my long-time job as Artistic Director at the Fort Wayne Dance
+Collective, I turned my attention to offering programs that help people reconnect to
+their bodies and to find joy and comfort in movement. For some it means re-education on how to stand up, improve posture, recover from an injury, or how to
+be a better swimmer. For others they look to movement to reduce stress.
 
-{% include figure.html image="/assets/images/FI_body.jpg" position="center" width="450" %} 
+{% include figure.html image="/assets/images/baseball.jpeg" position="center" caption="Our community coming togther, dancing to Take me Out to the Ball Game with friends from the Dance Collective, Dance for Disabilities, and more." %}
 
+We can start on a path of easier movement together, and maybe you can become a
+junkie too. 
 
 <p style="text-align: center;">{% include button.html text="Learn More" link="/services" %}</p>

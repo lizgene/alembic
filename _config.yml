@@ -39,7 +39,7 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: LizMonnider # jekyll-seo-tag > Owners twitter username
+  username: LizMonnier # jekyll-seo-tag > Owners twitter username
 author: LizMonnier # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Liz Monnier # jekyll-seo-tag > real name
@@ -123,9 +123,11 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
 - title: Home
   url: /
+- title: About
+  url: /about/
 - title: Services
   url: /services/
-- title: What is the Feldenkrais Method?
+- title: The Feldenkrais Method®
   url: /feldenkrais/
 - title: Get in Touch
   url: /contact/
