@@ -29,13 +29,15 @@ Feldenkrais Method® services I offer include:
 
 <p style="text-align: center;">{% include button.html text="Book a Session" link="/contact" %}</p>
 
+<hr/>
+
 <h3 id="bones">Bones for Life®  Let’s regain your posture!</h3>
 
 {% include figure.html image="/assets/images/th.jpeg" position="center" width="168" %}
 
-Ruthy Alon, one of the original 13 students of Dr. Moshe Feldenkrais, created this method designed to strengthen bones through movement. Please check out this website for more information: http://movementintelligence.org/bones-for-life/
+Ruthy Alon, one of the original 13 students of Dr. Moshe Feldenkrais, created the [Bones for Life® Method](http://movementintelligence.org/bones-for-life/) to strengthen bones through movement. 
 
-When you consider that 50% of all women will experience osteoporosis in their life and that if you live long enough, everyone will experience some bone loss, this somatic method is so important and needed. It is also a wonderful alternative to taking drugs! 
+When you consider that [50% of all women will experience osteoporosis in their lifetime](https://www.nof.org/preventing-fractures/general-facts/what-women-need-to-know/), and that if you live long enough, everyone will experience some bone loss. This is why this somatic method is so important and needed, and it is also a wonderful alternative to taking drugs! 
 
 Ruthy Alon designed 90 processes that involve simple to complex movements that create “biological optimism” as we inspire the skeleton to continue its work of building bone health. The processes are done standing, sitting and lying down and sometimes use simple props like towels or rolled up socks. As we progress and students become more invested, students are asked to acquire a cloth body wrap and ankle and hand weights.  Many processes also require a wall.  
 
@@ -46,6 +48,8 @@ The Foundation for Movement Intelligence is the North American nonprofit sponsor
 I am so excited to start this journey with you to build a strong and stable skeleton that can serve you for the rest of your life!   
 
 <p style="text-align: center;"><a class="button" target="_blank" href="https://forms.gle/K6mNWwSemJ5dkFEq9">Submit Form</a> <span style="padding-left: 15px;"></span> {% include button.html text="Schedule a Class" link="/contact" %}</p>
+
+<hr/>
 
 <h3 id="dance">Dance for Disabilities</h3>
 
@@ -64,6 +68,8 @@ My services include on-site programming as well as trainings for people interest
 * Resources
 
 <p style="text-align: center;">{% include button.html text="Let's do it!" link="/contact" %}</p>
+
+<hr/>
 
 <h3 id="qigong">Qigong Classes</h3>
 

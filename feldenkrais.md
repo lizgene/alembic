@@ -2,6 +2,8 @@
 title: The Feldenkrais Method®
 ---
 
+<hr/>
+
 {% include figure.html image="/assets/images/FI_body.jpg" position="center" width="450" %}
 
 > “Liz has worked with my knee a number of times over the past year and I am grateful to say that it is once again functioning as a knee should.” — Allison Ballard 
@@ -10,13 +12,13 @@ Dr. Moshe Feldenkrais was a scientific engineer by trade and judo master by trai
 
 He began to study anatomical structure, and many disciplines related to movement and human behavior, such as yoga, the martial arts, psychology, and education, especially the work of Jean Piaget. 
 
-What interested him was the weight-bearing and shock-absorbing function of the skeletal system in relationship to gravity. He found that by gently stimulating the bones and joints and their connection through the spinal column and the brain, new movement patterns were possible. In other words, by learning to sense subtle differences, a person could learn to move out of pain. By engaging the brain’s ability to relearn and change, the Feldenkrais Method improves the exchange of relevant information between the nervous system and the muscles, and as a result, movement becomes more comfortable. 
+What interested him was the weight-bearing and shock-absorbing function of the skeletal system in relationship to gravity. He found that by gently stimulating the bones and joints and their connection through the spinal column and the brain, new movement patterns were possible. In other words, by learning to sense subtle differences, a person could learn to move out of pain. By engaging the brain’s ability to relearn and change, the [Feldenkrais Method®](https://feldenkrais.com/) improves the exchange of relevant information between the nervous system and the muscles, and as a result, movement becomes more comfortable. 
 
 > “Liz is wonderful. She knows how the body works. Every time I have a session with her she helps me get my body back in balance.” —Sandy Gebhard 
 
-This process of retraining the body is called somatic education in which the Feldenkrais Method® is rooted. By expanding the self-image through precise movement sequences, attention is brought to parts of the self that are not functioning efficiently. You can become more aware of your habitual neuromuscular patterns and rigidities and will be able to expand your options for moving in less painful ways. 
+This process of retraining the body is called somatic education in which the [Feldenkrais Method®](https://feldenkrais.com/) is rooted. By expanding the self-image through precise movement sequences, attention is brought to parts of the self that are not functioning efficiently. You can become more aware of your habitual neuromuscular patterns and rigidities and will be able to expand your options for moving in less painful ways. 
 
-The benefits of the Feldenkrais Method® include greater ease and range of motion, improved flexibility and coordination, and more efficient movement. In short, by directed attention, the Feldenkrais Method® assists you to live your life more fully, efficiently and comfortably. 
+The benefits of the [Feldenkrais Method®](https://feldenkrais.com/) include greater ease and range of motion, improved flexibility and coordination, and more efficient movement. In short, by directed attention, the Feldenkrais Method® assists you to live your life more fully, efficiently and comfortably. 
 
 ## Private Sessions
 _What to expect_

@@ -3,9 +3,24 @@ feature_text: |
   ## Liz Monnier
   Movement Junkie
 feature_image: "https://picsum.photos/1300/400?image=989"
+title: Welcome from Liz
 ---
 
-{% include figure.html image="/assets/images/headshot.jpeg" position="left" width="250" %}
+{% include video.html id="tn5jsRfInzc" title="Welcome from Liz Monnier" %}
+
+<hr/>
+
+{% include figure.html image="/assets/images/liz-on-chair.jpeg" position="left" width="350" %}
+
+A Lifetime spent engaging people with creativity, movement, and music
+
+Guild Certified Feldenkrais® Practitioner
+
+Bones for Life® Teacher in Training
+
+Inspiring People with Disabilities through Dance
+
+<hr/>
 
 I have always been a lover of movement. Once I started, I couldn’t stop. I was
 hooked. I became a junkie. The more I moved, the more I wanted to move. What about you?
